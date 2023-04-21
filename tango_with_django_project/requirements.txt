@@ -8,5 +8,5 @@ Pillow==6.2.1
 PyMySQL==0.9.3
 pytz==2019.3
 rango==0.0.2a0
-sqlparse==0.3.0
+sqlparse==0.4.4
 Unidecode==1.1.1
